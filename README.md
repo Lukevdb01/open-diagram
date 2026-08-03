@@ -1,4 +1,4 @@
-# legacy-drawio-core-fork
+# Open Diagram
 
 This repository is a legacy fork of the original [mxGraph](https://github.com/jgraph/mxgraph) JavaScript code used by draw.io-style editors.
 
